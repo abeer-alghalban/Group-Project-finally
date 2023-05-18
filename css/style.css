@@ -639,11 +639,12 @@ height: 164px;
     /* border-radius: 0px; */
 }
 .circal-icon i{
-    position: absolute;
-    left: 30%;
-    top: 35%;
+       position: absolute;
+    left: 50%;
+    top: 50%;
     color: white;
     font-size: 20px;
+    transform: translate(-50%, -50%);
 }
 .shopping .circal-icon{
     border: 9px solid  rgb(155, 149, 149);
