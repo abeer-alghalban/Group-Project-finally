@@ -213,8 +213,8 @@ h3{
 /* end section 2 */
 .section-img{
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+/*     align-items: center; */
+    ustify-content: space-between;
     flex-wrap: wrap;
 
 }
