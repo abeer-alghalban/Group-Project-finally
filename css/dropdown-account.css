@@ -106,7 +106,9 @@ nav {
 .user-icon{
     position: relative;
 }
-
+.dropdown-list ul i{
+    padding-right: 15px;
+}
 .user-icon:hover+.dropdown-list
 {
     display: flex;
